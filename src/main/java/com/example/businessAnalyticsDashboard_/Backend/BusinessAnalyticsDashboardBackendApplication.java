@@ -1,0 +1,13 @@
+package com.example.businessAnalyticsDashboard_.Backend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BusinessAnalyticsDashboardBackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BusinessAnalyticsDashboardBackendApplication.class, args);
+	}
+
+}
